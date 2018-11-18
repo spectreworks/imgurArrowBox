@@ -1,0 +1,9 @@
+16 bicolor LEDs
+8 220 Ohm resistors
+8 3.3k Ohm resistors
+Tilt switch
+Arduino Nano/uno
+DC-DC boost converter 0.9v-5v to 5v
+Battery holder (single aaa to 4 aa, only difference should be battery life)
+Small SPST switch
+Assorted wire for hook ups
